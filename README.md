@@ -1,6 +1,6 @@
-# Towards Improving Exploration n Self-Imitation Learning using Intrinsic Motivation
+# Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation
 This is the Tensorflow implementation of [IEEE Symposium Series on Computational Intelligence (SSCI)](https://ieeessci2022.org/) 2022 paper:
-*Towards Improving Exploration n Self-Imitation Learning using Intrinsic Motivation*. 
+*Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation*. 
 
 We propose a simple method that combines the generation of intrinsic rewards with self-imitation learning techniques that rank previous episodes and replay them to reproduce good exploration behaviors through imitation (behavioral cloning). We built our method on top of [RAPID](https://arxiv.org/abs/2101.08152) and evaluate the performance over hard-exploration procedurally-generated environments on [MiniGrid](https://github.com/Farama-Foundation/MiniGrid). The results show that using intrinsic motivation techniques with self-imitation learning methods exhibits a equal or better performance and sample efficiency in comparison to execute those methods in isolation.
 
