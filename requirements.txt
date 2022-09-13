@@ -1,0 +1,5 @@
+joblib
+tensorflow==1.14.0
+gym==0.21.0
+gym-minigrid==1.0.2
+
