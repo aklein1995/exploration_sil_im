@@ -8,7 +8,7 @@ The implementation is based on [RAPID-github-repo](https://github.com/daochenzha
 
 ## Cite This Work
 ```
-Proceedings still not published.
+A. Andrés, E. Villar-Rodriguez, J. Del Ser, “Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation”, IEEE Symposium Series on Computational Intelligence, accepted, 2022.
 ```
 
 ## Installation
@@ -54,5 +54,5 @@ On the other hand, the same experiment with RAPID and no intrinsic rewards, run
 python3 main.py --log_dir MN7S8_ent001_w0w1w2_0 --seed 0 --ent_coef 0.01 --im_coef 0 --frames 20000000 --env 'MiniGrid-MultiRoom-N7-S8-v0'
 ```
 
-To evaluate on differente environments, change  `--env` and configure the simulation based on your preferences.
+To evaluate on different environments, change `--env` and configure the simulation based on your preferences.
 
