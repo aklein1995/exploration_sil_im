@@ -8,7 +8,12 @@ The implementation is based on [RAPID-github-repo](https://github.com/daochenzha
 
 ## Cite This Work
 ```
-A. Andrés, E. Villar-Rodriguez, J. Del Ser, “Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation”, IEEE Symposium Series on Computational Intelligence, accepted, 2022.
+@article{andres2022towards,
+  title={Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation},
+  author={Andres, Alain and Villar-Rodriguez, Esther and Del Ser, Javier},
+  journal={arXiv preprint arXiv:2211.16838},
+  year={2022}
+}
 ```
 
 ## Installation
