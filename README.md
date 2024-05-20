@@ -8,6 +8,19 @@ The implementation is based on [RAPID-github-repo](https://github.com/daochenzha
 
 ## Cite This Work
 ```
+@INPROCEEDINGS{10022199,
+  author={Andres, Alain and Villar-Rodriguez, Esther and Del Ser, Javier},
+  booktitle={2022 IEEE Symposium Series on Computational Intelligence (SSCI)}, 
+  title={Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={890-899},
+  keywords={Learning systems;Schedules;Accelerated aging;Diversity reception;Reinforcement learning;Manuals;Trajectory;Reinforcement Learning;Intrinsic Motivation;Self Imitation Learning;Sparse Rewards;Generalization},
+  doi={10.1109/SSCI51031.2022.10022199}}
+```
+or
+```
 @article{andres2022towards,
   title={Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation},
   author={Andres, Alain and Villar-Rodriguez, Esther and Del Ser, Javier},
