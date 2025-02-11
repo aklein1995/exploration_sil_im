@@ -19,15 +19,6 @@ The implementation is based on [RAPID-github-repo](https://github.com/daochenzha
   keywords={Learning systems;Schedules;Accelerated aging;Diversity reception;Reinforcement learning;Manuals;Trajectory;Reinforcement Learning;Intrinsic Motivation;Self Imitation Learning;Sparse Rewards;Generalization},
   doi={10.1109/SSCI51031.2022.10022199}}
 ```
-or
-```
-@article{andres2022towards,
-  title={Towards Improving Exploration in Self-Imitation Learning using Intrinsic Motivation},
-  author={Andres, Alain and Villar-Rodriguez, Esther and Del Ser, Javier},
-  journal={arXiv preprint arXiv:2211.16838},
-  year={2022}
-}
-```
 
 ## Installation
 Please make sure that you have **Python 3.6** installed. First, clone the repo with
